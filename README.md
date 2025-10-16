@@ -1,3 +1,5 @@
+> **⚠️ IMPORTANTE** - O link para download dos exemplos utilizados no curso está na descrição da primeira aula
+
 ## Introdução
 Olá e seja bem-vindo(a) a Imersão **Inteligência Artificial Generativa para Devs .NET**! Eu sou André Baltieri, ou balta, 13x Microsoft MVP, e vou te acompanhar nesta jornada prática para integrar **IA Generativa** de ponta a ponta em aplicações **.NET** usando **Semantic Kernel** e **Ollama** — com RAGs, busca vetorial e modelos multi-modal.
 
